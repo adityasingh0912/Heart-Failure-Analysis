@@ -17,4 +17,12 @@ Clinical Decision Support: HeartGuard provides decision support tools for health
 
 Patient Engagement: The system promotes patient engagement and self-management through interactive interfaces, personalized health insights, and educational resources tailored to individual patient needs and preferences.
 
-Regulatory Compliance and Security: HeartGuard adheres to regulatory standards for data privacy and security, ensuring compliance with healthcare regulations such as HIPAA and GDPR to safeguard patient confidentiality and data integrity
+Regulatory Compliance and Security: HeartGuard adheres to regulatory standards for data privacy and security, ensuring compliance with healthcare regulations such as HIPAA and GDPR to safeguard patient confidentiality and data integrity.
+
+
+
+
+IN this model we see SVM gives best Accuracy.
+ SVM's ability to handle high-dimensional data, robustness to overfitting, flexibility in kernel selection, optimal margin, tolerance to outliers, global optimization, interpretability, and regularization make it a compelling choice for heart failure analysis and classification tasks, often leading to superior results compared to other machine learning models.
+ 
+
